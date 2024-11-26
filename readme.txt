@@ -11,7 +11,7 @@ A WordPress block plugin that leverages AI to generate designs from text or imag
 
 == Description ==
 
-WP AI Design integrates multiple AI providers (OpenAI, Anthropic, Google Gemini) to help you generate WordPress block patterns and layouts directly in the block editor. Simply describe what you want, and the AI will generate the appropriate blocks and patterns.
+WP AI Design integrates multiple AI providers (OpenAI, Anthropic, Google Gemini) to help you generate WordPress block patterns and layouts directly in the block editor. Simply describe what you want, or upload a screenshot and the AI will generate the appropriate blocks and patterns.
 
 == Features ==
 
